@@ -11,3 +11,4 @@ After that you will have a copy of this repository in your Github account,
 to use with [this ZMK keymap GUI tool](https://nickcoutsos.github.io/keymap-editor/).
 
 For a more in depth guide please see our [guide](https://www.boardsource.xyz/docs/guides-zmkgui) on using only GUIs to configure your ZMK keyboard.
+
